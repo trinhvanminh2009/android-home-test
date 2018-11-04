@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">android-home-test</string>
+    <string name="app_name">Tiki</string>
+    <string name="keyword">Từ khóa hot</string>
+    <string name="register">ĐĂNG KÝ</string>
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="login_to_get_best_experience"> Đăng nhập để có trải nghiệm tốt nhất</string>
+    <string name="icon">icon</string>
+    <string name="convenience_service">Dịch Vụ Tiện Ích</string>
+    <string name="air_plan_ticket">Vé máy bay</string>
+    <string name="card_game">Thẻ game</string>
+    <string name="card_phone">Thẻ 3G/4G</string>
+    <string name="discount">Ưu đãi &amp; hợp tác</string>
+    <string name="discount_description">Các ưu đãi cho chủ thẻ ngân hàng</string>
 </resources>
